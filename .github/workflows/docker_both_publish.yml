@@ -51,6 +51,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: shclub/edu1
+          tags: kyankee6/edu1
       #${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
